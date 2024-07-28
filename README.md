@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Data science and its different aspects.
 - 📩 My mailid: aniketchattopadhyay01@gmail.com
 - 🔗 My LinkedIn account: www.linkedin.com/in/aniket-chattopadhyay-ac210702
+- 🌏 My Portfolio: https://aniket210702.github.io/portfolio.github.io/
