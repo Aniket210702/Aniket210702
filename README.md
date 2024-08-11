@@ -1,4 +1,4 @@
-Currently, I am a Bachelor’s student at VIT Chennai, majoring in Electronics and Communication. Besides my domain knowledge of EC and IOT systems, I possess a keen interest in artificial intelligence and machine learning, with adeptness in merging technical expertise with advanced analytical data handling capabilities. I enjoy listening to songs, watching movies and playing cricket.
+At present, I am pursuing a Bachelor's degree at VIT Chennai, specializing in Electronics and Communication. In addition to my domain expertise in EC and IOT systems, I have a strong enthusiasm for artificial intelligence and machine learning, with proficiency in integrating technical skills with advanced analytical data management. In my leisure time, I like listening to music, watching films, and playing cricket.
 <br>
 📩 My mailid: aniketchattopadhyay01@gmail.com
 <br>
